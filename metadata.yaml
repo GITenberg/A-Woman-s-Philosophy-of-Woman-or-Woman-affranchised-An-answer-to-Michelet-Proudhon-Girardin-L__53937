@@ -1,6 +1,9 @@
 _repo: A-Woman-s-Philosophy-of-Woman-or-Woman-affranchised-An-answer-to-Michelet-Proudhon-Girardin-L__53937
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La femme affranchie. English
+covers:
+- cover_type: archival
+  image_path: 53937-h/images/cover.jpg
 creator:
   author:
     agent_name: Héricourt, Madame d'
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47630
     wikipedia: https://fr.wikipedia.org/wiki/Jenny_d%27H%C3%A9ricourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53937#A-Woman-s-Philosophy-of-Woman-or-Woman-affranchised-An-answer-to-Michelet-Proudhon-Girardin-L_
 gutenberg_issued: '2017-01-10'
 gutenberg_type: Text
 identifiers:
