@@ -1,0 +1,31 @@
+_repo: A-Woman-s-Philosophy-of-Woman-or-Woman-affranchised-An-answer-to-Michelet-Proudhon-Girardin-L__53937
+_version: 0.0.1
+alternative_title: La femme affranchie. English
+creator:
+  author:
+    agent_name: Héricourt, Madame d'
+    aliases:
+    - D'Héricourt, Jenny P.
+    - Hericourt, Madame d'
+    - D'Héricourt, Madame
+    birthdate: 1809
+    deathdate: 1875
+    gutenberg_agent_id: '47630'
+    url: http://www.gutenberg.org/2009/agents/47630
+    wikipedia: https://fr.wikipedia.org/wiki/Jenny_d%27H%C3%A9ricourt
+description: ''
+gutenberg_issued: '2017-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women''s rights -- France'
+- GITenberg
+title: "A Woman's Philosophy of Woman; or, Woman affranchised.\r\nAn answer to Michelet,\
+  \ Proudhon, Girardin, Legouvé, Comte, and other modern innovators"
+url: http://www.gutenberg.org/ebooks/53937
